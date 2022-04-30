@@ -244,7 +244,7 @@
 </div>
 
 
-<!-- 4-rasm -->
+
 <div>
   <q-img src="http://xtrm.foxthemes.me/wp-content/uploads/2018/09/Group-27.png?id=3467">
     <div class="absolute-full text-subtitle2 flex flex-center">
@@ -265,162 +265,35 @@
     </div>
   </q-img>
 </div>
-<!-- text -->
+
 <div class="column" style="margin-left:200px;margin-top:90px">
   <span>PRICING</span>
   <span class="text-h4" style="margin-top:30px">Why Pay <span style="background-color:black;color:yellow"> More?</span></span>
 </div>
-<!-- trio -->
-<div class="fit row no-wrap justify-around items-start content-start q-mx-xl" style="margin-top:50px;width:; background-color:">
-  <div style="width: 20%;">
-    <q-card  class="bg-transparent-9 text-dark my-card">
-      <q-card-section style="height: 150px;">
-        <div class="row">
-          <div class="text-h2">80</div>
-          <span class="text-h4">$</span>
-          <div class="text-subtitle2 flex flex-center" style="margin-left:160px">Monthly</div>
-        </div>
-          <div style="margin-top:40px" class="text-h4">Basic Plan</div>
-          <q-separator inset />
-      </q-card-section>
 
-      <q-separator dark inset />
+<div style="width: 20%;">
+  <q-card dark bordered class="bg-grey-9 my-card">
+    <q-card-section>
+      <div class="text-h6">Our Changing Planet</div>
+      <div class="text-subtitle2">by John Doe</div>
+    </q-card-section>
 
-      <q-card-section style="height: ;" class="fit column no-wrap justify-start items-start content-start">
-      <span class="row">
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;color:grey" class="text-h6">Unlimited Lift</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="grey" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Instructor’s Help</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="grey" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Free Hugs</span>
-      </span>
-      <span><br>
-        <q-icon name="done" color="grey" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:50px;color:grey" class="text-h6">Coffee & Cookies</span>
-      </span>
-      </q-card-section>
-      <q-btn style="width: 150px;margin-left: 50px; background-color:white;" class="">
-        <span style="color:black"> Order now</span>
-      <template>
-        <q-spinner-hourglass class="on-left" />
-        Loading...
-      </template>
-    </q-btn>
-    </q-card>
-  </div>
-  <div style="width: 20%;">
-    <q-card  class="bg-transparent-9 text-dark my-card" style="border-color: yellow;">
-      <q-card-section style="height: 150px;">
-        <div class="row">
-          <div class="text-h2">100</div>
-          <span class="text-h4">$</span>
-          <div class="text-subtitle2 flex flex-center" style="margin-left:100px">Monthly</div>
-        </div>
-          <div style="margin-top:40px" class="text-h4">Standard Plan</div>
-          <q-separator inset />
-      </q-card-section>
+    <q-separator dark inset />
 
-      <q-separator dark inset />
+    <q-card-section style="height: 300px;">
 
-      <q-card-section style="height: ;" class="fit column no-wrap justify-start items-start content-start">
-      <span class="row">
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;color:grey" class="text-h6">Unlimited Lift</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Instructor’s Help</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Free Hugs</span>
-      </span>
-      <span><br>
-        <q-icon name="done" color="grey" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:50px;color:grey" class="text-h6">Coffee & Cookies</span>
-      </span>
-      </q-card-section>
-      <q-btn style="width: 150px;margin-left: 50px; background-color:yellow;" class="">
-        <span style="color:black"> Order now</span>
-      <template>
-        <q-spinner-hourglass class="on-left" />
-        Loading...
-      </template>
-    </q-btn>
-    </q-card>
-  </div>
-  <div style="width: 20%;">
-    <q-card  class="bg-transparent-9 text-dark my-card">
-      <q-card-section style="height: 150px;">
-        <div class="row">
-          <div class="text-h2">120</div>
-          <span class="text-h4">$</span>
-          <div class="text-subtitle2 flex flex-center" style="margin-left:100px">Monthly</div>
-        </div>
-          <div style="margin-top:40px" class="text-h4"> Premium Plan</div>
-          <q-separator inset />
-      </q-card-section>
-
-      <q-separator dark inset />
-
-      <q-card-section style="height: ;" class="fit column no-wrap justify-start items-start content-start">
-      <span class="row">
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;color:grey" class="text-h6">Unlimited Lift</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Instructor’s Help</span>
-      </span><br>
-      <span>
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:40px;color:grey" class="text-h6">Free Hugs</span>
-      </span>
-      <span><br>
-        <q-icon name="done" color="yellow" size="30px"></q-icon>
-        <span style="margin-left:20px;margin-top:50px;color:grey" class="text-h6">Coffee & Cookies</span>
-      </span>
-      </q-card-section>
-      <q-btn style="width: 150px;margin-left: 50px; background-color:white;" class="">
-        <span style="color:black"> Order now</span>
-      <template>
-        <q-spinner-hourglass class="on-left" />
-        Loading...
-      </template>
-    </q-btn>
-    </q-card>
-  </div>
+    </q-card-section>
+  </q-card>
 </div>
-
-<!-- 5-rasm -->
-<div style="margin-top:70px">
-  <q-img src="http://xtrm.foxthemes.me/wp-content/uploads/2018/09/news.png?id=3395" style="height:400px">
-    <div class="absolute-full text-subtitle2 flex flex-center">
-      <span class="text-h4">Want You Get a Week of Riding For Free?</span>
-      <q-btn style="background-color:yellow;color:black;margin-left:70px">I Want It</q-btn>
-    </div>
-  </q-img>
-</div>
-
-<Java/>
-<Street/>
 
 </q-page>
 </template>
 
 <script>
 import { defineComponent } from 'vue'
-import Java from 'src/components/java.vue'
-import Street from '../components/street.vue'
 
 export default defineComponent({
-    name: "IndexPage",
-    components: { Java, Street }
+  name: 'IndexPage'
 })
 </script>
 <style scoped>
